@@ -1,0 +1,118 @@
+
+
+@import url("https://fonts.googleapis.com/css2?family=Qwitcher+Grypen&family=Roboto:wght@400;500;700;900&display=swap");
+
+
+@font-face {
+   font-family:"Lato";
+   src: url("../fonts/Lato-Black.woff2") format("woff2"), url("../fonts/Lato-Black.woff") format("woff");
+   font-display: swap ;
+   font-weight: 100;
+   font-style: normal;
+}
+@font-face {
+   font-family:"Lato";
+   src: url("../fonts/Lato-ExtraBold.woff2") format("woff2"), url("../fonts/Lato-ExtraBold.woff") format("woff");
+   font-display: swap ;
+   font-weight: 400;
+   font-style: normal;
+}
+@font-face {
+   font-family:"Lato";
+   src: url("../fonts/Lato-Bold.woff2") format("woff2"), url("../fonts/Lato-Bold.woff") format("woff");
+   font-display: swap ;
+   font-weight: 500;
+   font-style: normal;
+}
+@font-face {
+   font-family:"Lato";
+   src: url("../fonts/Lato-Regular.woff2") format("woff2"), url("../fonts/Lato-Regular.woff") format("woff");
+   font-display: swap ;
+   font-weight: 700;
+   font-style: normal;
+}
+@font-face {
+   font-family:"Lato";
+   src: url("../fonts/Lato-SemiBold.woff2") format("woff2"), url("../fonts/Lato-SemiBold.woff") format("woff");
+   font-display: swap ;
+   font-weight: 900;
+   font-style: normal; 
+}
+
+
+@font-face {
+   font-family:"Larsseit";
+   src: url("../fonts/Larsseit-Bold.woff2") format("woff2"), url("../fonts/Larsseit-Bold.woff") format("woff");
+   font-display: swap ;
+   font-weight:900 ;
+   font-style: normal;
+}
+@font-face {
+   font-family:"Larsseit";
+   src: url("../fonts/Larsseit-Medium.woff2") format("woff2"), url("../fonts/Larsseit-Medium.woff") format("woff");
+   font-display: swap ;
+   font-weight: 700;
+   font-style: normal;
+}
+@font-face {
+   font-family:"Larsseit";
+   src: url("../fonts/Larsseit.woff2") format("woff2"), url("../fonts/Larsseit.woff") format("woff");
+   font-display: swap ;
+   font-weight: 400;
+   font-style: normal;
+}
+
+
+.trext {
+   /*color: rgb(47, 0, 255);*/
+   font-family: 'Roboto';
+   font-weight: 900;
+}
+
+.hrext{
+   font-family: 'Roboto';
+   font-weight: 700;
+}
+
+.text{
+   /*color: blueviolet;*/
+   font-family: 'Lato';
+   font-weight: 100;
+}
+
+.chef{
+   color: rgb(94, 5, 81);
+   font-family: 'Lato';
+   font-weight: 500;
+}
+
+.block{
+   /*color: rgb(116, 239, 44);*/
+   font-family: 'Lato';
+   font-weight: 700;
+}
+
+.zhenya{
+   /*color:  rgb(252, 147, 8);*/
+   font-family: 'Lato';
+   font-weight: 900;
+}
+
+
+
+
+
+.secondtitle{
+   font-family: "larsseit";
+   font-weight: 900;
+}
+
+.ssecondtitle{
+   font-family: "larsseit";
+   font-weight: 700;
+}
+
+.secondtext{ 
+   font-family: "larsseit";
+   font-weight: 400;
+}
